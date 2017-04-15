@@ -1,0 +1,8 @@
+<!-- drawable/flash.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="36dp"
+    android:width="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <path android:fillColor="#ffaa00" android:pathData="M7,2V13H10V22L17,10H13L17,2H7Z" />
+</vector>

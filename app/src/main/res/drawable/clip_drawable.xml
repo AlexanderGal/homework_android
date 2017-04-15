@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clipOrientation="vertical"
+    android:gravity="bottom">
+    <layer-list>
+        <item>
+            <shape>
+                <corners android:radius="6dp" />
+                <stroke
+                    android:width="2dp"
+                    android:color="@color/colorBlack" />
+                <solid android:color="@color/colorGreen" />
+                <size
+                    android:width="60dp"
+                    android:height="90dp" />
+            </shape>
+        </item>
+
+        <item>
+            <bitmap
+                android:gravity="center"
+                android:src="@drawable/ic_flash_black_36dp"/>
+        </item>
+
+    </layer-list>
+    <level-list>
+        <item>
+
+        </item>
+    </level-list>
+</clip>
