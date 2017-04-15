@@ -27,8 +27,7 @@ public class MainActivity extends AppCompatActivity {
             public void onAnimationUpdate(ValueAnimator valueAnimator) {
                 Integer value = (Integer) valueAnimator.getAnimatedValue();
                 mFirstAnimatedView.getBackground().setLevel(value);
-                mFirstAnimatedView.setText(value / 100 + " %");
-
+                mFirstAnimatedView.setText(value/100+" %");
             }
         });
         mAnimator.start();

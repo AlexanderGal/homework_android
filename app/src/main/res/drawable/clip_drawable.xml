@@ -21,11 +21,5 @@
                 android:gravity="center"
                 android:src="@drawable/ic_flash_black_36dp"/>
         </item>
-
     </layer-list>
-    <level-list>
-        <item>
-
-        </item>
-    </level-list>
 </clip>
