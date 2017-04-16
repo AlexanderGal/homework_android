@@ -18,4 +18,5 @@
             android:gravity="center"
             android:src="@drawable/ic_flash_white_36dp" />
     </item>
+    <item android:drawable="@drawable/clip_drawable" />
 </layer-list>

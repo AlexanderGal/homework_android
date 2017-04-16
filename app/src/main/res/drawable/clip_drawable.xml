@@ -19,7 +19,7 @@
         <item>
             <bitmap
                 android:gravity="center"
-                android:src="@drawable/ic_flash_black_36dp"/>
+                android:src="@drawable/ic_flash_black_36dp" />
         </item>
     </layer-list>
 </clip>
