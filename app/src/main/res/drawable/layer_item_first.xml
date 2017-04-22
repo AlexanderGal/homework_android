@@ -35,9 +35,9 @@
         </clip>
     </item>
 
-    <item>
-        <bitmap
-            android:gravity="center"
-            android:src="@drawable/ic_flash_white_36dp" />
-    </item>
+    <item
+        android:width="30dp"
+        android:height="30dp"
+        android:drawable="@drawable/flash"
+        android:gravity="center"/>
 </layer-list>
